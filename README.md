@@ -124,7 +124,7 @@ Si alguna persona (física o moral) considera que su derecho de protección de d
    </div>
  
 
-</body>
+
 <script> 
 let hideTextbtn = document.getElementById('hideTextbtn');
 let hidetext = document.getElementById('hideText');
@@ -140,4 +140,5 @@ else{
 
 }
 </script>
+      </body>
 </html>
