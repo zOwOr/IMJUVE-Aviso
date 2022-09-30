@@ -118,8 +118,7 @@ Este documento atiende las disposiciones de la ley aplicable, para casos especí
 Si alguna persona (física o moral) considera que su derecho de protección de datos personales ha sido lesionado por alguna conducta de los colaboradores de IMJUVE o de las actuaciones de la organización, presume que en el tratamiento de sus datos personales existe alguna violación a las disposiciones previstas en le Ley Federal de Protección de Datos Personales en Posesión de Particulares, podrá interponer la queja o denuncia correspondiente ante el IFAI.
 
 </span>
-    </div>
-   </div>
+  
    <div class="d-grid  mb-5  col-2 mx-auto">
  <button type="button" class="btn btn-outline-warning " id="hideTextbtn">Leer Mas...</button>
    </div>
