@@ -42,7 +42,7 @@
    </header>
    <div class="row">
     <div class="col-12">
-      <p class=" bg-gradient m-3 p-5 text-white text-start me-5 ms-5">
+      <p class=" bg-gradient m-3 p-2 text-white text-start me-5 ms-5">
 En IMJUVE, la información y datos personales de los beneficiarios, colaboradores, donantes, asociados, empleados y proveedores, es tratada de forma estrictamente confidencial
  y con la secrecía necesaria para lograr los fines de la organización, por lo que hacemos un esfuerzo permanente para salvaguardarla, de conformidad con los artículos 8, 15, 16 y 36 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 <br><br>
